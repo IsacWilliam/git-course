@@ -7,3 +7,5 @@ Nova alteração.
 Quero muito aprender!!!
 
 Vamos tentando!!!
+
+Alteração nova no arquivo.
